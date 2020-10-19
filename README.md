@@ -32,4 +32,4 @@ You can find usage examples in the demo app.
 ## Contributing
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit)
